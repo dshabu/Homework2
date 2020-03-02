@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import com.jfoenix.controls.*?>
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.*?>
+<HBox stylesheets="@style.css" prefHeight="480.0" prefWidth="640.0" xmlns="http://javafx.com/javafx/11.0.1"
+      xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.Controller">
+   <padding>
+      <Insets bottom="5.0" left="5.0" right="5.0" top="5.0"/>
+   </padding>
+   <VBox HBox.hgrow="ALWAYS">
+      <JFXListView fx:id="studentListView" prefHeight="470.0" prefWidth="411.0" HBox.hgrow="ALWAYS"
+                   VBox.vgrow="ALWAYS"/>
+   </VBox>
+   <VBox prefHeight="470.0" prefWidth="199.0" spacing="10.0">
+      <VBox alignment="TOP_CENTER" spacing="10.0">
+         <padding>
+            <Insets bottom="10.0" left="10.0" right="10.0"/>
+         </padding>
+         <Label maxWidth="1.7976931348623157E308" text="DB OPERATIONS" textFill="#bdbdbd"/>
+         <JFXButton fx:id="openDBBtn" maxWidth="1.7976931348623157E308" prefWidth="179.0" text="Create &amp; Reset DB"
+                    textAlignment="CENTER"/>
+         <JFXButton fx:id="modifyTableBtn" disable="true" maxWidth="1.7976931348623157E308" text="Create Students Table"
+                    textAlignment="CENTER"/>
+         <JFXButton fx:id="populateTableBtn" disable="true" maxWidth="1.7976931348623157E308" text="Get All Students"
+                    textAlignment="CENTER"/>
+      </VBox>
+      <VBox prefHeight="200.0" prefWidth="100.0" spacing="10.0" VBox.vgrow="ALWAYS">
+         <padding>
+            <Insets bottom="10.0" left="10.0" right="10.0"/>
+         </padding>
+         <Label maxWidth="1.7976931348623157E308" text="FILTER CONTROLS" textFill="#bdbdbd"/>
+         <JFXComboBox fx:id="attribCBox" disable="true" prefHeight="27.0" prefWidth="205.0" promptText="  Attribute"/>
+         <JFXComboBox fx:id="operatorCBox" disable="true" prefHeight="27.0" prefWidth="259.0" promptText="  Operator"/>
+         <TextField fx:id="filterField" disable="true" prefHeight="34.0" prefWidth="179.0"/>
+         <JFXButton fx:id="runQueryBtn" disable="true" maxWidth="1.7976931348623157E308" prefHeight="32.0"
+                    text="Run Query"/>
+      </VBox>
+   </VBox>
+</HBox>

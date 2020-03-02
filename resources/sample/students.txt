@@ -1,0 +1,20 @@
+938bb4b0-035a-4afc-80a0-a28faef3b6a0,Beret Benasik,Digital Media,3.28,40
+d7c2ec79-f69d-4d8a-9230-4398c0c00738,Colman Coleyshaw,InfoTech,1.05,19
+5a73c3ea-a3ad-4675-a2ee-296cc5706429,Lizette Troubridge,Business,3.56,47
+ed2503d5-34a8-46d6-a607-668bfe2f4620,Melicent Gooke,Chemistry,1.96,36
+82f0ec14-be61-4f4f-b3fd-c0a6427840c7,Tildy Arnopp,Business,3.72,49
+c6278d53-b23a-4d33-a012-6e6af7ec58b7,Teodoor Lynn,Medicine,2.44,18
+d6d5416d-36ee-4aa6-9d3f-5a34949713fb,Haleigh Brettle,History,1.51,46
+d09df662-4fbe-4e55-9c5d-0b9bfe5d9f21,Stanly Cluse,Mathematican,1.65,38
+a4cc4253-642c-4e45-bc07-780dfbb91a22,Suzann Westfield,History,2.18,24
+6f805f45-dc3e-44af-b7bc-0fbed33ec6bc,Bobinette Izard,Accountant,3.92,39
+25a31c2f-9228-4143-afd9-7362ac0eee0b,Janina Bletcher,Physics,2.36,29
+17495d40-c942-44ba-8e0e-21f01440b0bc,Osbourne Engall,Mathematican,2.55,47
+054f38c2-2cff-4e87-808b-7c449778e65c,Emmaline Thackham,Digital Media,3.09,28
+73d6f894-b55f-4ec8-9fea-873393425a1c,Humberto Grendon,Accountant,2.42,49
+0a05cb62-e3d1-471c-98b7-2100ac7a1e94,Pierson Blackshaw,Programmer,1.15,42
+50ff001b-841c-4cd8-b3d9-ad9cc9dc4660,David Tyler,Business,1.7,31
+21b44983-33ea-4246-a41b-117fd5647667,Natalina Ryott,Psychology,2.5,24
+3423611d-4b5b-4c85-891e-911de9ed137e,Georgeanne Hocking,Mathematican,2.06,22
+e4d577bf-26f2-4bc8-848f-d79c8ca9db3c,Kimball Nacey,History,2.35,28
+57f70b4b-567a-41e3-bf9a-b835ee128900,Hunt Veelers,Psychology,3.44,37

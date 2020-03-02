@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="mariadb-client">
+    <CLASSES>
+      <root url="file:///Library/Java/Libraries/mariadb-client" />
+      <root url="file://C:/Program Files/AdoptOpenJDK/Libraries/mariadb-client" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file:///Library/Java/Libraries/mariadb-client" recursive="false" />
+    <jarDirectory url="file://C:/Program Files/AdoptOpenJDK/Libraries/mariadb-client" recursive="false" />
+  </library>
+</component>
